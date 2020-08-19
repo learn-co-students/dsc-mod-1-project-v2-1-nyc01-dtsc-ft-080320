@@ -3,8 +3,11 @@
 __pycache__
 *.db
 *.pytest_cache
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6454e9e9bf8b34ce6198e9cca3383bfa7c5b7678
 # Logs and databases
 *.log
 *.sql
@@ -23,5 +26,8 @@ Thumbs.db
 # config file
 config.py
 
+<<<<<<< HEAD
 # csv or data files
 *.csv 
+=======
+>>>>>>> 6454e9e9bf8b34ce6198e9cca3383bfa7c5b7678
