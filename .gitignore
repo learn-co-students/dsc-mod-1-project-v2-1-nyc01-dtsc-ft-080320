@@ -28,6 +28,6 @@ config.py
 
 <<<<<<< HEAD
 # csv or data files
-*.csv 
+# *.csv 
 =======
 >>>>>>> 6454e9e9bf8b34ce6198e9cca3383bfa7c5b7678
